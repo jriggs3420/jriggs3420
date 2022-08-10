@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jasmine!
 - 📫 How to reach me: jriggs3420@gmail.com or (602) 500-1818
+- 🗨 [LinkedIn](https://www.linkedin.com/in/jasmine-riggs/)
 
 <!---
 jriggs3420/jriggs3420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
